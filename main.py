@@ -5,7 +5,7 @@
     python main.py --scenarios              # also run the example sensitivity scenarios
 
 Results (CSV, TXT, PNG) are written to ``results/<question>/``. Extend ``run_scenarios``
-with your own scenarios, or add a new function per question, as your analysis grows.
+with your own scenarios, or add a new function per question, as your analysis grows. tjekker om det virker
 """
 from __future__ import annotations
 
